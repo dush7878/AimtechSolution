@@ -99,6 +99,7 @@ export function ServicesPage() {
         <meta name="description" content="AimTech Solution offers comprehensive services: Frontend Development, Backend & APIs, Cloud & Deployment, SEO & Performance, Database Design, Security, and more. Expert web development solutions." />
         <meta name="keywords" content="AimTech Solution services, web development services, full-stack development, cloud deployment, SEO optimization, database design, security, mobile development, UI/UX design, e-commerce, CMS development" />
         <meta name="author" content="AimTech Solution" />
+        <meta name="google-site-verification" content="Xd1k4-cfpDQ0-5sTCZh33I3Cevt0xpXeRFUvP7Q2o4Q" />
         <meta property="og:title" content="AimTech Solution Services | Full-Stack Web Development & SEO Optimization" />
         <meta property="og:description" content="AimTech Solution offers comprehensive services: Frontend Development, Backend & APIs, Cloud & Deployment, SEO & Performance, Database Design, Security, and more." />
         <meta property="og:type" content="website" />
