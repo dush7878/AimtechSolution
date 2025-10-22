@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://aimtechsolution.com/sitemap.xml
+Sitemap: https://aimtechsolution.vercel.app/sitemap.xml

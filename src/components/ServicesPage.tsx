@@ -95,18 +95,18 @@ export function ServicesPage() {
   return (
     <>
       <Helmet>
-        <title>Our Services - AimTech Solution | Full-Stack Web Development & More</title>
-        <meta name="description" content="Explore our comprehensive services: Frontend Development, Backend & APIs, Cloud & Deployment, SEO & Performance, Database Design, Security, and more. Expert web development solutions." />
-        <meta name="keywords" content="web development services, full-stack development, cloud deployment, SEO optimization, database design, security, mobile development, UI/UX design, e-commerce, CMS development" />
+        <title>AimTech Solution Services | Full-Stack Web Development & SEO Optimization</title>
+        <meta name="description" content="AimTech Solution offers comprehensive services: Frontend Development, Backend & APIs, Cloud & Deployment, SEO & Performance, Database Design, Security, and more. Expert web development solutions." />
+        <meta name="keywords" content="AimTech Solution services, web development services, full-stack development, cloud deployment, SEO optimization, database design, security, mobile development, UI/UX design, e-commerce, CMS development" />
         <meta name="author" content="AimTech Solution" />
-        <meta property="og:title" content="Our Services - AimTech Solution | Full-Stack Web Development & More" />
-        <meta property="og:description" content="Explore our comprehensive services: Frontend Development, Backend & APIs, Cloud & Deployment, SEO & Performance, Database Design, Security, and more." />
+        <meta property="og:title" content="AimTech Solution Services | Full-Stack Web Development & SEO Optimization" />
+        <meta property="og:description" content="AimTech Solution offers comprehensive services: Frontend Development, Backend & APIs, Cloud & Deployment, SEO & Performance, Database Design, Security, and more." />
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://aimtechsolution.com/services" />
+        <meta property="og:url" content="https://aimtechsolution.vercel.app/" />
         <meta property="og:image" content="/hero-section.png" />
         <meta name="twitter:card" content="summary_large_image" />
-        <meta name="twitter:title" content="Our Services - AimTech Solution | Full-Stack Web Development & More" />
-        <meta name="twitter:description" content="Explore our comprehensive services: Frontend Development, Backend & APIs, Cloud & Deployment, SEO & Performance, Database Design, Security, and more." />
+        <meta name="twitter:title" content="AimTech Solution Services | Full-Stack Web Development & SEO Optimization" />
+        <meta name="twitter:description" content="AimTech Solution offers comprehensive services: Frontend Development, Backend & APIs, Cloud & Deployment, SEO & Performance, Database Design, Security, and more." />
         <meta name="twitter:image" content="/hero-section.png" />
       </Helmet>
       <div className="pt-20 lg:pt-24">

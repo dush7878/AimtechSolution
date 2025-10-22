@@ -107,11 +107,11 @@ export function Hero() {
             transition={{ duration: 0.8 }}
           >
             <h1 className="text-[30px] sm:text-[56px] lg:text-[68px] font-[700] text-black mb-2 leading-tight">
-              Build Fast. Deploy Smart.{' '}
+              AimTech Solution:{' '}
               <span className="bg-gradient-to-r from-[#007BFF] to-blue-600 bg-clip-text text-transparent">
-                Grow
+                Build Fast. Deploy Smart. Grow
               </span>{' '}
-              with AimTech.
+              with Us.
             </h1>
           </motion.div>
 
