@@ -21,6 +21,7 @@ function HomePage() {
         <meta name="description" content="AimTech Solution: Leading provider of full-stack web development, cloud deployment, and SEO-optimized solutions. Build fast, deploy smart, and grow with AimTech." />
         <meta name="keywords" content="AimTech Solution, web development, full-stack development, cloud deployment, SEO optimization, software solutions, AimTech" />
         <meta name="author" content="AimTech Solution" />
+        <meta name="google-site-verification" content="Xd1k4-cfpDQ0-5sTCZh33I3Cevt0xpXeRFUvP7Q2o4Q" />
         <meta property="og:title" content="AimTech Solution - Expert Web Development & SEO Services" />
         <meta property="og:description" content="AimTech Solution: Leading provider of full-stack web development, cloud deployment, and SEO-optimized solutions." />
         <meta property="og:type" content="website" />
