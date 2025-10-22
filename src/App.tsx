@@ -17,18 +17,18 @@ function HomePage() {
   return (
     <>
       <Helmet>
-        <title>AimTech Solution - Build Fast. Deploy Smart. Grow with Us</title>
-        <meta name="description" content="Expert in full-stack web development, cloud deployment, and SEO-optimized solutions. Build fast, deploy smart, and grow with AimTech." />
-        <meta name="keywords" content="web development, full-stack development, cloud deployment, SEO optimization, AimTech, software solutions" />
+        <title>AimTech Solution - Expert Web Development & SEO Services</title>
+        <meta name="description" content="AimTech Solution: Leading provider of full-stack web development, cloud deployment, and SEO-optimized solutions. Build fast, deploy smart, and grow with AimTech." />
+        <meta name="keywords" content="AimTech Solution, web development, full-stack development, cloud deployment, SEO optimization, software solutions, AimTech" />
         <meta name="author" content="AimTech Solution" />
-        <meta property="og:title" content="AimTech Solution - Build Fast. Deploy Smart. Grow with Us" />
-        <meta property="og:description" content="Expert in full-stack web development, cloud deployment, and SEO-optimized solutions." />
+        <meta property="og:title" content="AimTech Solution - Expert Web Development & SEO Services" />
+        <meta property="og:description" content="AimTech Solution: Leading provider of full-stack web development, cloud deployment, and SEO-optimized solutions." />
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://aimtechsolution.com" />
+        <meta property="og:url" content="https://aimtechsolution.vercel.app" />
         <meta property="og:image" content="/hero-section.png" />
         <meta name="twitter:card" content="summary_large_image" />
-        <meta name="twitter:title" content="AimTech Solution - Build Fast. Deploy Smart. Grow with Us" />
-        <meta name="twitter:description" content="Expert in full-stack web development, cloud deployment, and SEO-optimized solutions." />
+        <meta name="twitter:title" content="AimTech Solution - Expert Web Development & SEO Services" />
+        <meta name="twitter:description" content="AimTech Solution: Leading provider of full-stack web development, cloud deployment, and SEO-optimized solutions." />
         <meta name="twitter:image" content="/hero-section.png" />
       </Helmet>
       <Hero />
